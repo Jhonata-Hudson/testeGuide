@@ -1,0 +1,7 @@
+source 'http://rubygems.org'
+
+gem 'ffaker'
+gem 'pry'
+gem 'tiny_tds', '~> 2.1', '>= 2.1.2'
+gem 'pry-nav'
+gem 'cucumber'
